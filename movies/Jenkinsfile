@@ -100,7 +100,7 @@ pipeline {
                       }
                     }
                 }
-
+	}
 }
             //TODO: Watch deployment until pod is in 'Running' state
         }
